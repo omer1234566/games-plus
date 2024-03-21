@@ -1,0 +1,62 @@
+/*القسم الاول الخلفيه*/
+*{
+    margin:0 ;
+    padding: 0;}
+
+.div{
+    height: 100vh;
+    background: url(٢٠٢٤٠٣٢٠_٠٩٣٨٥٦.jpg) center center/cover no-repeat;
+}
+ul li a {
+    margin-left:  1100px;
+    list-style: none;
+    text-decoration-line: none;
+    font-style:oblique;
+    color: wheat;
+    font-size: larger;
+   
+}
+.img{
+    margin-left: 1000px;
+    width: 300px;}
+
+.h1{
+    color:rgb(235, 155, 7);
+    font-size:xx-large ;
+    margin-left: 30px;
+    text-transform: uppercase;}
+
+.p{
+    width: 300px;
+    color:rgb(129, 146, 18);
+    word-spacing: 3px;
+    margin-left: 40px; font-size: larger; font-style: unset;}
+    
+/*القسم الثاني*/
+/*#main , fieldset{
+    height: 100vh;
+    background-color: brown;
+}*/
+/*#gm{
+    height: 100vh;
+    background-color: blue;}*/
+
+    
+nav a:hover{
+    color: white;
+    background:linear-gradient(black , blue);
+    padding: 5px;
+    border-radius: 10px 10px;
+    border: 2px solid white;
+    font-size: xx-large;
+}
+footer{
+    text-align: center;
+    margin-top: 160px;
+    background-color: blue;
+    color: whitesmoke;
+}
+#e{
+    color: whitesmoke;
+    text-decoration: none;
+}
